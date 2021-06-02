@@ -1,0 +1,6 @@
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\Exercise2\obj\Debug\Exercise2.pdb

@@ -1,0 +1,6 @@
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojAssemblyReference.cache
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplication6\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
